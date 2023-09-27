@@ -18,3 +18,5 @@
 
 // This is the firmware version for VIA support to avoid conflicts on menu fetching
 #define VIA_FIRMWARE_VERSION 1
+
+#define HOLD_ON_OTHER_KEY_PRESS_PER_KEY
